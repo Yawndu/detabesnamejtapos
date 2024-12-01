@@ -1,0 +1,17 @@
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\bin\Debug\databescombobox.exe.config
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\bin\Debug\databescombobox.exe
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\bin\Debug\databescombobox.pdb
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\bin\Debug\System.Data.OleDb.dll
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\bin\Debug\System.Data.OleDb.xml
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.csproj.AssemblyReference.cache
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.frmAdd.resources
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.frmMain.resources
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.Properties.Resources.resources
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databesc.392ED599.Up2Date
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.exe
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.pdb
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.frmUpdate.resources
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.frmDelete.resources
+C:\Users\Kyle\source\repos\databescombobox\databescombobox\obj\Debug\databescombobox.frmSearch.resources
